@@ -1,0 +1,11 @@
+BUBBLE SORT
+Xronos: 0.081
+===========
+SELECT SORT
+Xronos: 0.03
+===========
+INSERT SORT
+Xronos: 0.023
+===========
+QUICK SORT
+Xronos: 0.001
